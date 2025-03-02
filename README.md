@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict the return of a selected stock using various financial ratios and statistics, besides the stock's own price time series. The analysis is done in Python, leveraging data collected from Bloomberg/Refinitiv (LSEG Workspace) terminals. We perform data exploration, cleaning, and feature engineering, followed by training machine learning models to predict stock returns.
+This project aims to predict the return of a selected stock using various financial ratios and statistics, besides the stock's own price time series. The analysis is done in Python, leveraging data collected from Bloomberg terminal. We perform data exploration, cleaning, and feature engineering, followed by training machine learning models to predict stock returns.
 
 ## Steps Involved
 
